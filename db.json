@@ -1,0 +1,21 @@
+{
+"Mesas":[
+    {"numero": 111, "clienteId": 1, "id": 1, "mesa": 1},
+    {"numero": 222, "clienteId": 2, "id": 2, "mesa": 2},
+    {"numero": 333, "clienteId": 3, "id": 3, "mesa": 3},
+    {"numero": 444, "clienteId": 4, "id": 4, "mesa": 4}
+],
+"funcionarios": [
+    {"nome": "Fulano1", "cargo": "gerente", "id": 1010, "salário": 10000},
+    {"nome": "Fulano2", "cargo": "recepção", "id": 2020, "salário": 5000},
+    {"nome": "Fulano3", "cargo": "garçom", "id": 3030, "salário": 5000},
+    {"nome": "Fulano4", "cargo": "chefe", "id": 4040, "salário": 10000}
+],
+"clientes":[
+    {"nome": "Sicrano1", "pedido": "001", "id": 100, "pagamento": "crédito"},
+    {"nome": "Sicrano2", "pedido": "002", "id": 200, "pagamento": "Pix"},
+    {"nome": "Sicrano3", "pedido": "003", "id": 300, "pagamento": "Débito"},
+    {"nome": "Sicrano4", "pedido": "004", "id": 400, "pagamento": "Dinheiro"}
+]
+}
+
