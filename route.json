@@ -1,7 +1,7 @@
 {
-    "/quartos/list" : "/quartos/",
-    "/quartos/create" : "/quartos/",
-    "/quartos/update/:id" : "/quartos/:id",
-    "/quartos/delete/:id" : "/quartos/:id"
+    "/mesa/list" : "/mesa/",
+    "/mesa/create" : "/mesa/",
+    "/mesa/update/:id" : "/mesa/:id",
+    "/mesa/delete/:id" : "/mesa/:id"
 
 }
